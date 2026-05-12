@@ -1,6 +1,3 @@
 Name: Deenesh Balamurali
 Course: BAI
 Favourite Food
-
-Hobby: Playing Games
-Dream Job: AI Automation Developer
