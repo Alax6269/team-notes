@@ -1,3 +1,5 @@
 Name: Chai Shan
 Course: BDS
 Favourite movie: F! the Movie
+Hobby: Drawing
+Dream job: Data analysist
